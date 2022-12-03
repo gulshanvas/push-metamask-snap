@@ -18,7 +18,9 @@
     }
   },
   "initialPermissions": {
-    "snap_confirm": {}
+    "endowment:transaction-insight": {},
+    "endowment:network-access": {},
+    "snap_notify": {}
   },
   "manifestVersion": "0.1"
 }
