@@ -1,18 +1,11 @@
-# Trust score snap demo 🟥 🟧 🟩
+# Push snap demo
 
-This repository host a Snap showing a trust score for any smart contract interaction and its Dapp demo.
-This snap is based on the insights api, it show in a "TRUST SCORE" tab how safe it is to interact with a contract based on quantitative data.
+This repository host a Snap that will show push notifications in the metamask.
+This snap is based on the insights api, it will show subscribed messages based on the selected metamask address.
 
 It currently supports:
 
-- Contract popularity (how many tx this contract has received)
-- Contract interaction (how often this account has interacted with the contract)
-- Contract age (when was it deployed)
-- Contract verification on Sourcify and Etherscan
-
-Weights are applied to the above criterias because they are not all at the same level.
-
-![Metamask insights screenshot](https://user-images.githubusercontent.com/33178835/199010793-25a807a5-e14d-466d-acb6-4d3d7290dcaa.png)
+- Showing messages from multiple subsribed channels (Push protocol) 
 
 ## Only works with pre-release Flask
 
