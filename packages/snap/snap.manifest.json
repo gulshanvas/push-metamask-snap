@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0",
+  "description": "A snap sending notifications to metamask leveraging Push protocol",
+  "proposedName": "Messages EPNS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+  },
+  "source": {
+    "shasum": "tIS+Y03YzFF0JjAU9J1makZP0z9b7oFHr6JSV0DnAfc=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "iconPath": "images/icon.svg",
+        "packageName": "snap",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "endowment:transaction-insight": {},
+    "endowment:network-access": {},
+    "snap_notify": {}
+  },
+  "manifestVersion": "0.1"
+}
