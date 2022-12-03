@@ -7,7 +7,9 @@ It currently supports:
 
 - Showing messages from multiple subsribed channels (Push protocol) 
 
-## Only works with pre-release Flask
+## Snaps is pre-release software
+
+To interact with (your) Snaps, you will need to install [MetaMask Flask](https://metamask.io/flask/), a canary distribution for developers that provides access to upcoming features.
 
 Since the insight api is not available on the Flask in the store, you need to install the custom build [from here](https://github.com/rekmarks/metamask-extension/releases/tag/devcon-vi)
 
