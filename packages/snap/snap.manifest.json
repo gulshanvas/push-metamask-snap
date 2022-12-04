@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "description": "A snap sending notifications to metamask leveraging Push protocol",
-  "proposedName": "Messages EPNS",
+  "proposedName": "Notifications",
   "repository": {
     "type": "git",
     "url": "https://github.com/MetaMask/template-snap-monorepo.git"
