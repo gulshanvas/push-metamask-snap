@@ -79,3 +79,4 @@ The project follows the same release process as the other libraries in the MetaM
     "files": ["./node_modules/@metamask/snap-types/global.d.ts"]
   }
   ```
+8. I Have mentored Gulshan on this Project. Would love to help him to make it big together
